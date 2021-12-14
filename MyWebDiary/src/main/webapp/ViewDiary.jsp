@@ -17,7 +17,6 @@ table, td {
 </head>
 <body>
 <%
-	
 
 	String lowerDate = new String();
 	String upperDate = new String();
