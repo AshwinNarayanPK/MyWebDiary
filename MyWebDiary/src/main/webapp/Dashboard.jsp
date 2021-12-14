@@ -12,6 +12,7 @@
 		document.write("<form action='ViewDiary.jsp'><input type='date' name='lowerlimit'><br><input type='date' name='upperlimit'><br><input type='submit' value='enter'></form>")
 	}
 	
+	
 </script>
 <meta charset="ISO-8859-1">
 <title>User-Dashboard</title>

@@ -18,6 +18,7 @@ table, td {
 <body>
 <%
 	
+
 	String lowerDate = new String();
 	String upperDate = new String();
 	String userId = new String();

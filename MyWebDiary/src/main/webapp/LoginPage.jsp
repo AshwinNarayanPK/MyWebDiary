@@ -13,6 +13,7 @@
 <body>
 
 	<%
+	
 		String Username = new String();
 		Username = request.getParameter("Username");
 		String Pwd = request.getParameter("pwd");
